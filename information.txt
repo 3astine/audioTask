@@ -1,0 +1,13 @@
+INTRODUCTION
+The script was written and executed on:
+	Python version: 2.7
+	OS: Linux(Ubuntu 18)
+
+INSTRUCTION OF SETUP
+	1. Install FFmpeg
+	2. Run task.py file
+
+As a result of execution we will have a JSON format file which contains
+audio file names and their quality description. 
+
+
